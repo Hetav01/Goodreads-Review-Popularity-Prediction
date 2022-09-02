@@ -1,4 +1,12 @@
-# ML-Project
+# Text-Based Prediction of Book Review Popularity.
+
+## A Machine Learning Project.✨🌍
+
+## Abstract
+This document contains the classification done
+on books reviews data having multiple reviews using suitable
+classification algorithms with an objective to get important
+features from available data.
 
 Dataset comes from the <a href= "https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home">USCD Book Graph</a>, originally scraped from <a href= "https://www.goodreads.com/">Goodreads</a>.
 
@@ -6,6 +14,7 @@ Dataset drive link: https://drive.google.com/drive/folders/14Lw1YpCCzlFaozQydj7F
 
 The whole code for the research project is in a single jupyter notebook.
 
+The link for the research paper is provided in the Releases.
 To run this notebook, 
 
 1. Install Jupyter or use <a href= "https://jupyter.org/try-jupyter/retro/notebooks/?path=notebooks/Intro.ipynb">Jupyter Online</a>
