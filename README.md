@@ -8,13 +8,13 @@ on books reviews data having multiple reviews using suitable
 classification algorithms with an objective to get important
 features from available data.
 
-Dataset comes from the <a href= "https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home">USCD Book Graph</a>, originally scraped from <a href= "https://www.goodreads.com/">Goodreads</a>.
+Dataset comes from the <a href= "https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home">USCD Book Graph</a>, originally scraped from <a href= "https://www.goodreads.com/">Goodreads.com</a>.
 
 Dataset drive link: https://drive.google.com/drive/folders/14Lw1YpCCzlFaozQydj7FXD9an8qqIS6m?usp=sharing
 
 The whole code for the research project is in a single jupyter notebook.
 
-The link for the research paper is provided in the Releases.
+The link for the research paper we wrote on this is provided in the Releases.
 
 To run this notebook, 
 
